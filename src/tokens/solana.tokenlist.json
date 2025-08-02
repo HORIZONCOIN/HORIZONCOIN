@@ -1,36 +1,40 @@
 {
-  "name": "Solana Token List",
-  "tags": {
-    "community": {
-      "name": "Community",
-      "description": "Tokens with strong community backing"
+    "name": "Solana Token List",
+    "tags": {
+        "community": {
+            "name": "Community",
+            "description": "Tokens with strong community backing"
+        },
+        "utility-token": {
+            "name": "Utility Token",
+            "description": "Utility tokens for projects and platforms"
+        },
+        "meme": {
+            "name": "Meme Token",
+            "description": "Meme-driven tokens"
+        }
     },
-    "utility-token": {
-      "name": "Utility Token",
-      "description": "Utility tokens for projects and platforms"
-    },
-    "meme": {
-      "name": "Meme Token",
-      "description": "Meme-driven tokens"
-    }
-  },
-  "timestamp": "2025-08-01T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 101,
-      "address": "7xgMkptKjVJTDfPY4HSougiEybhH9dmYkUN8Gv4tLJgB",
-      "symbol": "HRIZN",
-      "name": "HORIZON",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/HORIZONCOIN/HORIZON/main/logo.png",
-      "tags": ["community", "utility-token", "meme"],
-      "extensions": {
-        "website": "https://horizon-coin.com",
-        "twitter": "https://x.com/horizoncoin_",
-        "telegram": "https://t.me/HRIZNCOIN",
-        "description": "HORIZON is more than a token — it's a movement. A platform where true hustlers gather, where effort gets rewarded, and where adversity is fuel. Money is the mindset. 🚀",
-        "github": "https://github.com/HORIZONCOIN/HORIZON"
-      }
-    }
-  ]
+    "timestamp": "2025-08-01T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 101,
+            "address": "7xgMkptKjVJTDfPY4HSougiEybhH9dmYkUN8Gv4tLJgB",
+            "symbol": "HRIZN",
+            "name": "HORIZON",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/HORIZONCOIN/HORIZON/main/logo.png",
+            "tags": [
+                "community",
+                "utility-token",
+                "meme"
+            ],
+            "extensions": {
+                "website": "https://horizon-coin.com",
+                "twitter": "https://x.com/horizoncoin_",
+                "telegram": "https://t.me/HRIZNCOIN",
+                "description": "HORIZON is more than a token \u2014 it's a movement. A platform where true hustlers gather, where effort gets rewarded, and where adversity is fuel. Money is the mindset. \ud83d\ude80",
+                "github": "https://github.com/HORIZONCOIN/HORIZON"
+            }
+        }
+    ]
 }
